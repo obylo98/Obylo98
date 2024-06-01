@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML/CSS/JavaScript/React/Node.js/PHP/Python**
 
-- 📫 How to reach me **contact@obidev.me**
+- 📫 How to reach me **obinnaonyekwere11@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/obinnaa-onyekwere](www.linkedin.com/in/obinnaa-onyekwere)
 
