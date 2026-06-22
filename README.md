@@ -86,9 +86,10 @@ fun_fact: >
         </a>
       </p>
       <p align="center">
-        A full-stack web application crafted to bring ideas to user life.
+        A job search & resume-tailoring app with built-in interview prep — helping users land their next role.
       </p>
       <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
@@ -106,7 +107,8 @@ fun_fact: >
         A live match app delivering real-time sports scores & updates.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/API-FF6C37?style=flat&logo=postman&logoColor=white" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
       </p>
