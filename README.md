@@ -1,43 +1,191 @@
-<h1 align="center">Hi 👋, I'm Obinna</h1>
-<h3 align="center">Full-Stack Developer Alchemy: Bringing ideas to User life</h3>
+<!-- ===== HEADER BANNER ===== -->
+<a href="https://github.com/obylo98">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:21262d&height=200&section=header&text=Obinna%20Onyekwere&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Turning%20ideas%20into%20living%20products&descAlignY=58&descSize=18" alt="header"/>
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obylo98&label=Profile%20views&color=0e75b6&style=flat" alt="obylo98" /> </p>
+<!-- ===== TYPING ANIMATION ===== -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Python+%7C+PHP;Building+an+E-commerce+platform;Code+is+my+instrument%2C+lines+are+my+notes" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/obylo98/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obylo98" alt="obylo98" /></a> </p>
+<!-- ===== PROFILE STATS BADGES ===== -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=obylo98&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://linkedin.com/in/obinnaa-onyekwere">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:obinnaonyekwere11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20me-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on **An Ecommerce app**
+<br/>
 
-- 🌱 I’m currently learning **React Native**
+<!-- ===== ABOUT ME ===== -->
+<h2 align="center">⚡ About Me</h2>
 
-- 👨‍💻 All of my projects are available at [githublink](githublink)
+<table align="center">
+  <tr>
+    <td valign="top" width="55%">
 
-- 📝 I regularly write articles on [www.linkedin.com/in/obinnaa-onyekwere](www.linkedin.com/in/obinnaa-onyekwere)
+```yaml
+name: Obinna Onyekwere
+role: Full-Stack Developer
+focus: Bringing ideas to user life
+currently:
+  building: An E-commerce app 🛒
+  learning: React Native 📱
+stack:
+  - HTML / CSS / JavaScript
+  - React / Node.js
+  - PHP / Python
+fun_fact: >
+  I find harmony in solitude, where the coding
+  keyboard becomes my instrument and the lines
+  of code my musical notes. 🎹
+```
 
-- 💬 Ask me about **HTML/CSS/JavaScript/React/Node.js/PHP/Python**
+  </td>
+  <td valign="top" width="45%">
 
-- 📫 How to reach me **obinnaonyekwere11@gmail.com**
+- 🔭 &nbsp;Currently working on an **E-commerce app**
+- 🌱 &nbsp;Currently learning **React Native**
+- 👨‍💻 &nbsp;Projects live at [my GitHub](https://github.com/obylo98)
+- 📝 &nbsp;I write on [LinkedIn](https://linkedin.com/in/obinnaa-onyekwere)
+- 💬 &nbsp;Ask me about **HTML / CSS / JS / React / Node / PHP / Python**
+- 📫 &nbsp;Reach me at **obinnaonyekwere11@gmail.com**
+- 📄 &nbsp;My experience on [LinkedIn](https://linkedin.com/in/obinnaa-onyekwere)
 
-- 📄 Know about my experiences [www.linkedin.com/in/obinnaa-onyekwere](www.linkedin.com/in/obinnaa-onyekwere)
+  </td>
+  </tr>
+</table>
 
-- ⚡ Fun fact **I find harmony in solitude, where the coding keyboard becomes my instrument and the lines of code my musical notes.**
+<br/>
 
-### Blogs posts
+<!-- ===== TECH STACK ===== -->
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,git,github,vscode&perline=10" alt="tech stack" />
+</div>
+
+<br/>
+
+<!-- ===== FEATURED PROJECTS ===== -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">🛬 Landit</h3>
+      <p align="center">
+        <a href="https://landit-red.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_Live_Demo-0e75b6?style=for-the-badge&logoColor=white" alt="landit live demo" />
+        </a>
+      </p>
+      <p align="center">
+        A full-stack web application crafted to bring ideas to user life.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/🔒_Private-555?style=flat" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">⚽ Sports Live</h3>
+      <p align="center">
+        <a href="https://sports-live-web.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_Live_Demo-0e75b6?style=for-the-badge&logoColor=white" alt="sports live demo" />
+        </a>
+      </p>
+      <p align="center">
+        A live match app delivering real-time sports scores & updates.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/API-FF6C37?style=flat&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===== GITHUB STATS ===== -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obylo98&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obylo98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obylo98&theme=tokyonight&hide_border=true" alt="streak stats" />
+</div>
+
+<br/>
+
+<!-- ===== TROPHIES ===== -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=obylo98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+</div>
+
+<br/>
+
+<!-- ===== ACTIVITY GRAPH ===== -->
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=obylo98&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
+</div>
+
+<br/>
+
+<!-- ===== BLOG POSTS ===== -->
+<h2 align="center">✍️ Latest Blog Posts</h2>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/obylo98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gxxny" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/obinnaa-onyekwere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="obinnaa-onyekwere" height="30" width="40" /></a>
-<a href="https://medium.com/@obylo98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@obylo98" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel-name" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel-name" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://php.net/docs.php/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://python.org/doc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- ===== CONNECT ===== -->
+<h2 align="center">🤝 Connect With Me</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obylo98&show_icons=true&locale=en&layout=compact" alt="obylo98" /></p>
+<div align="center">
+  <a href="https://linkedin.com/in/obinnaa-onyekwere" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://medium.com/@obylo98" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
+  </a>
+  <a href="https://codepen.io/obylo98" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"/>
+  </a>
+  <a href="https://www.youtube.com/c/channel-name" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
+  </a>
+  <a href="mailto:obinnaonyekwere11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obylo98&show_icons=true&locale=en" alt="obylo98" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obylo98&" alt="obylo98" /></p>
+<!-- ===== QUOTE ===== -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</div>
+
+<!-- ===== FOOTER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,100:0e75b6&height=120&section=footer" alt="footer"/>
+
+<div align="center">
+  <sub>⭐️ From <a href="https://github.com/obylo98">Obinna</a> — thanks for stopping by!</sub>
+</div>
