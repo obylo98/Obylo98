@@ -26,17 +26,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Achievement ranks (S / A / B / C badges)
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-
           # Languages with most-used breakdown
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 8
 
-          # When / how you code
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_charts: yes

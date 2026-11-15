@@ -170,7 +170,7 @@ const obinna = {
 ### 🧬 Deep Metrics
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Isometric calendar, achievements, languages and coding habits" width="100%"/>
+  <img src="github-metrics.svg" alt="Isometric calendar, activity and languages" width="100%"/>
 </div>
 
 <br/>
