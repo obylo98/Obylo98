@@ -146,7 +146,7 @@ const obinna = {
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="trophy.svg" alt="GitHub trophies"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-two-lac.vercel.app/?username=obylo98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub trophies"/></a>
 </div>
 
 <br/>
