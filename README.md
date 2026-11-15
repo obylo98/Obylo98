@@ -136,8 +136,8 @@ const obinna = {
 
 <div align="center">
 
-<a href="https://github.com/obylo98"><img height="170" src="https://github-readme-stats.vercel.app/api?username=obylo98&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=7f5af0&ring_color=7f5af0" alt="GitHub stats with rank"/></a>
-<a href="https://github.com/obylo98"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obylo98&layout=donut-vertical&langs_count=6&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff" alt="Top languages"/></a>
+<a href="https://github.com/obylo98"><img height="170" src="https://github-readme-stats-tau-jade-49.vercel.app/api?username=obylo98&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=7f5af0&ring_color=7f5af0" alt="GitHub stats with rank"/></a>
+<a href="https://github.com/obylo98"><img height="170" src="https://github-readme-stats-tau-jade-49.vercel.app/api/top-langs/?username=obylo98&layout=donut-vertical&langs_count=6&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff" alt="Top languages"/></a>
 
 <a href="https://github.com/obylo98"><img src="https://streak-stats.demolab.com/?user=obylo98&theme=tokyonight&hide_border=true&background=0D1117&ring=7F5AF0&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak"/></a>
 
@@ -146,7 +146,7 @@ const obinna = {
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obylo98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub trophies"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="trophy.svg" alt="GitHub trophies"/></a>
 </div>
 
 <br/>
