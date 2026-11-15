@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0e75b6,70:7f5af0,100:0d1117&height=220&section=header&text=Obinna%20Onyekwere&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Product%20Builder%20%C2%B7%20Creator&descSize=17&descAlignY=64&animation=twinkling&stroke=58a6ff&strokeWidth=1" width="100%" alt="Obinna Onyekwere"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:5b4fd6,100:7f5af0&height=230&section=header&text=Obinna%20Onyekwere&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Product%20Builder&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Obinna Onyekwere"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=680&lines=%3E+npm+run+build+--ideas;I+build+AI-powered+products+end+to+end+%F0%9F%A4%96;TypeScript+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+PostgreSQL+%C2%B7+Python;Agents+%C2%B7+Automation+%C2%B7+Video+pipelines+%C2%B7+Desktop+apps;From+idea+%E2%86%92+PRD+%E2%86%92+shipped+product+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
@@ -184,7 +184,7 @@ const obinna = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0e75b6,70:7f5af0,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:5b4fd6,100:0e75b6&height=120&section=footer" width="100%" alt="footer"/>
 
 <div align="center">
   <sub>Building in public from Lagos 🇳🇬 · Open to remote roles and interesting collaborations</sub>
